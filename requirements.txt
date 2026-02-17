@@ -1,0 +1,11 @@
+requests
+transformers
+python-dotenv
+Pillow
+opencv-python
+moviepy
+pyttsx3
+numpy
+pandas
+flask
+flask-cors
